@@ -34,36 +34,36 @@ See png generated in folder ./assets_build/
 
 ### France Info
 
-![France Info](./assets_build/France info.png)
+![France Info](./assets_build/France-info.png)
 
 #### France Info Hours
 
-![France Info Hours](./assets_build/France info_hours.png)
+![France Info Hours](./assets_build/France-info_hours.png)
 
 #### France Info Months
 
-![France Info Months](./assets_build/France info_months.png)
+![France Info Months](./assets_build/France-info_months.png)
 
 ### France Inter
 
-![France Inter](./assets_build/France inter.png)
+![France Inter](./assets_build/France-inter.png)
 
 #### France Inter Hours
 
-![France Inter Hours](./assets_build/France inter_hours.png)
+![France Inter Hours](./assets_build/France-inter_hours.png)
 
 #### France Inter Months
 
-![France Inter Months](./assets_build/France inter_months.png)
+![France Inter Months](./assets_build/France-inter_months.png)
 
 ### France Culture
 
-![France Culture](./assets_build/France culture.png)
+![France Culture](./assets_build/France-culture.png)
 
 #### France Culture Hours
 
-![France Culture Hours](./assets_build/France culture_hours.png)
+![France Culture Hours](./assets_build/France-culture_hours.png)
 
 #### France Culture Months
 
-![France Culture Months](./assets_build/France culture_months.png)
+![France Culture Months](./assets_build/France-culture_months.png)
